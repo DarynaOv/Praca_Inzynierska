@@ -1,12 +1,6 @@
 # Praca_Inzynierska
 
-
-Rozumiem, że wybrałaś temat **"Wykorzystanie uczenia maszynowego do wykrywania złośliwego oprogramowania w analizie śledczej"** i musisz uwzględnić uwagi promotora, w tym wykresy podobne do załączonego (trening i walidacja modelu ML), oraz inne wymagania (np. różne zbiory danych, GitHub, aplikacja na Azure itd.). Uwzględnię Twoje ograniczenia (brak doświadczenia, praca, lenistwo, miesiąc na całość) i przygotuję prosty plan, który pozwoli Ci to zrobić. Zacznijmy od struktury pracy, a potem omówię każdy punkt promotora.
-
----
-
-### Struktura pracy inżynierskiej
-Praca powinna mieć ok. 30-40 stron. Uwzględniam wymagania promotora (wczytywanie danych, standaryzacja, walidacja literaturą, wykresy itd.).
+temat **"Wykorzystanie uczenia maszynowego do wykrywania złośliwego oprogramowania w analizie śledczej"**
 
 #### 1. Wstęp (2-3 strony)
 - **Cel pracy**:  
@@ -229,5 +223,3 @@ Zakładam 1-2 godziny dziennie:
 - Skorzystaj z gotowych tutoriali (np. "Malware Detection with Python" na Kaggle).  
 - Użyj Google Colab – zero instalacji.  
 - Ogranicz apkę na Azure do minimum (tylko wynik).  
-
-Chcesz konkretne linki do tutoriali albo kod na któryś punkt?
